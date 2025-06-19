@@ -1,7 +1,7 @@
 # Customer_churn_EDA
 Customer Churn Analysis
 Welcome to the Customer Churn Analysis project!
-This project dives into understanding why customers leave a service—focusing on contract types, payment methods, tenure, and demographics—to help businesses build stronger retention strategies.
+This project dives into understanding why customers leave a service, focusing on contract types, payment methods, tenure, and demographics, to help businesses build stronger retention strategies.
 
 ## Objective
 #### The main goal was to identify patterns and factors that influence customer churn. Specifically, I looked into:
